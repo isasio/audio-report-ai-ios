@@ -34,6 +34,15 @@ A free Apple ID can install apps for **7 days at a time**. Refresh the app befor
 it expires. A paid Apple Developer Program membership is required for TestFlight
 or the App Store, so those are not available for this build.
 
+### Why not the App Store?
+
+Publishing to the App Store requires the paid Apple Developer Program
+membership (currently $99/year). The app itself is free: there is no purchase,
+subscription, ad, or account. Until a membership exists, this repository
+distributes the unsigned IPA so anyone with a free Apple ID can install it.
+If this is a nonprofit, educational, or government project, Apple may consider a
+Developer Program fee waiver.
+
 See [INSTALL.md](INSTALL.md) for step-by-step instructions and troubleshooting.
 
 ## What it does
