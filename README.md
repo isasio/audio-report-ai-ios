@@ -1,5 +1,7 @@
 # Audio Report AI for iOS
 
+<img src="Assets/icon.png" width="96" alt="Audio Report AI app icon">
+
 A local-first iOS app for recording or importing conversations, transcribing
 them on-device, reviewing the transcript, and drafting structured reports with a
 local LFM3 model.
