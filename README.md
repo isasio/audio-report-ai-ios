@@ -16,7 +16,9 @@ local LFM3 model.
 - Size: **~1.5 GB**
 - iOS 18 or newer
 - iPhone and iPad
-- SHA-256: see `SHA256SUMS.txt` on the latest release
+- SHA-256: see
+  [SHA256SUMS.txt](https://github.com/isasio/audio-report-ai-ios/releases/latest/download/SHA256SUMS.txt)
+  on the latest release
 
 ## Installation
 
