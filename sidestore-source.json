@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Audio Report AI",
-      "bundleIdentifier": "REPLACE_WITH_YOUR_BUNDLE_IDENTIFIER",
+      "bundleIdentifier": "com.example.AudioReportAI",
       "developerName": "isasio",
       "subtitle": "Private, local transcription and report drafting",
       "localizedDescription": "Record or import audio, transcribe it locally with Whisper, and generate structured reports using the bundled LFM3 model. No cloud processing, accounts or runtime networking. All processing happens on your device.",
