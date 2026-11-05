@@ -1,0 +1,24 @@
+  "name": "Audio Report AI",
+  "identifier": "com.isasio.audio-report-ai.source",
+  "sourceURL": "https://raw.githubusercontent.com/isasio/audio-report-ai-ios/main/sidestore-source.json",
+  "apps": [
+    {
+      "name": "Audio Report AI",
+      "bundleIdentifier": "REPLACE_WITH_YOUR_BUNDLE_IDENTIFIER",
+      "developerName": "isasio",
+      "subtitle": "Private, local transcription and report drafting",
+      "localizedDescription": "Record or import audio, transcribe it locally with Whisper, and generate structured reports using the bundled LFM3 model. No cloud processing, accounts or runtime networking. All processing happens on your device.",
+      "iconURL": "https://raw.githubusercontent.com/isasio/audio-report-ai-ios/main/Assets/app-icon.png",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/isasio/audio-report-ai-ios/releases/download/latest/AudioReportAI-unsigned.ipa",
+          "size": 1532437348,
+          "minOSVersion": "18.0",
+          "localizedDescription": "First public release. Includes Whisper large-v3-turbo for transcription and LFM3-1.7B for report drafting."
+        }
+      ]
+    }
+  ]
+}
