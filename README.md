@@ -2,7 +2,7 @@
 
 <img src="Assets/icon.png" width="96" alt="Audio Report AI app icon">
 
-A local-first iOS app for recording or importing conversations, transcribing
+A local iOS app for recording or importing conversations, transcribing
 them on-device, reviewing the transcript, and drafting structured reports with a
 local LFM3 model.
 
@@ -32,9 +32,7 @@ You do **not** have to use SideStore. Any of these free options works:
   Wi-Fi.
 - **SideStore** (optional) — a Wi-Fi refresh workflow after a one-time setup.
 
-A free Apple ID can install apps for **7 days at a time**. Refresh the app before
-it expires. A paid Apple Developer Program membership is required for TestFlight
-or the App Store, so those are not available for this build.
+
 
 ### Why not the App Store?
 
@@ -42,8 +40,6 @@ Publishing to the App Store requires the paid Apple Developer Program
 membership (currently $99/year). The app itself is free: there is no purchase,
 subscription, ad, or account. Until a membership exists, this repository
 distributes the unsigned IPA so anyone with a free Apple ID can install it.
-If this is a nonprofit, educational, or government project, Apple may consider a
-Developer Program fee waiver.
 
 See [INSTALL.md](INSTALL.md) for step-by-step instructions and troubleshooting.
 
@@ -94,9 +90,7 @@ See [PRIVACY.md](PRIVACY.md) for details.
 
 ## Important limitations
 
-Audio Report AI is a **documentation aid, not a medical device**. It does not
-diagnose, treat, cure, or prevent any condition and does not replace
-professional judgement. Generated reports are drafts and must be reviewed,
+Generated reports are drafts and must be reviewed,
 corrected, and explicitly approved by a qualified person before use.
 
 This is a **0.1.0 early build**:
@@ -127,4 +121,4 @@ This public repository distributes the unsigned iOS build and its user-facing
 documentation. Source code, signing certificates, and model files are not stored
 here. The IPA and checksums are published as GitHub Release assets.
 
-For support, open an issue in this repository.
+For support, send an email to ig.suarezmartin@gmail.com
