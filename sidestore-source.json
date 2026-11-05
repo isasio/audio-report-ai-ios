@@ -9,7 +9,7 @@
       "developerName": "isasio",
       "subtitle": "Private, local transcription and report drafting",
       "localizedDescription": "Record or import audio, transcribe it locally with Whisper, and generate structured reports using the bundled LFM3 model. No cloud processing, accounts or runtime networking. All processing happens on your device.",
-      "iconURL": "https://raw.githubusercontent.com/isasio/audio-report-ai-ios/main/Assets/app-icon.png",
+      "iconURL": "https://raw.githubusercontent.com/isasio/audio-report-ai-ios/main/Assets/icon.png",
       "versions": [
         {
           "version": "0.1.0",
