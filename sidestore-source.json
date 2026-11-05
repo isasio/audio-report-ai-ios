@@ -1,3 +1,4 @@
+{
   "name": "Audio Report AI",
   "identifier": "com.isasio.audio-report-ai.source",
   "sourceURL": "https://raw.githubusercontent.com/isasio/audio-report-ai-ios/main/sidestore-source.json",
@@ -21,4 +22,4 @@
       ]
     }
   ]
-
+}
